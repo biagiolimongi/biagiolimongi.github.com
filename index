@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio – Tuo Nome</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#fashion">Fashion Design</a></li>
+      <li><a href="#marketing">Digital Marketing</a></li>
+      <li><a href="#creative">Direzione Creativa</a></li>
+    </ul>
+  </nav>
+
+  <section id="home">
+    <h1>Ciao, sono [Tuo Nome]</h1>
+    <p>Benvenuto nel mio portfolio.</p>
+  </section>
+
+  <section id="fashion">
+    <h2>Fashion Design</h2>
+    <p>Descrizione dei progetti fashion.</p>
+  </section>
+
+  <section id="marketing">
+    <h2>Digital Marketing</h2>
+    <p>Strategie, progetti e campagne realizzate.</p>
+  </section>
+
+  <section id="creative">
+    <h2>Direzione Creativa</h2>
+    <p>Concept, visual storytelling e branding.</p>
+  </section>
+</body>
+</html>
